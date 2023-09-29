@@ -1,0 +1,25 @@
+2023-09-29 15:38:45 INFO ====== WebDriver manager ======
+2023-09-29 15:38:46 INFO Get LATEST chromedriver version for google-chrome
+2023-09-29 15:38:46 INFO Get LATEST chromedriver version for google-chrome
+2023-09-29 15:38:46 INFO There is no [win64] chromedriver "117.0.5938.132" for browser google-chrome "117.0.5938.132" in cache
+2023-09-29 15:38:46 INFO Get LATEST chromedriver version for google-chrome
+2023-09-29 15:38:47 INFO WebDriver version 117.0.5938.92 selected
+2023-09-29 15:38:47 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-09-29 15:38:47 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-09-29 15:38:47 INFO Driver downloading response is 200
+2023-09-29 15:38:48 INFO Get LATEST chromedriver version for google-chrome
+2023-09-29 15:38:48 INFO Driver has been saved in cache [C:\Users\Old_Home\.wdm\drivers\chromedriver\win64\117.0.5938.132]
+2023-09-29 15:38:49 INFO Test login_positive Starting
+2023-09-29 15:38:50 INFO Send 'serg_t' to element //*[@id="login"]/div[1]/label/input
+2023-09-29 15:38:50 INFO Send 'cb7131accd' to element //*[@id="login"]/div[2]/label/input
+2023-09-29 15:38:50 INFO Click login button
+2023-09-29 15:38:50 INFO Start find success text
+2023-09-29 15:38:52 INFO We find text 'Hello, serg_t' in login field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-09-29 15:38:52 INFO Test add_post Starting
+2023-09-29 15:38:52 INFO Click contact button
+2023-09-29 15:38:53 INFO Send 'Sergey' to element //*[@id="contact"]/div[1]/label/input
+2023-09-29 15:38:53 INFO Send 'Sergey.T@mail.ru' to element //*[@id = "contact"]/div[2]/label/input
+2023-09-29 15:38:53 INFO Send 'One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.' to element //*[@id = "contact"]/div[3]/label/span/textarea
+2023-09-29 15:38:53 INFO Click contact us button
+2023-09-29 15:38:54 INFO Get alert message
+2023-09-29 15:38:54 INFO Alert message is Form successfully submitted

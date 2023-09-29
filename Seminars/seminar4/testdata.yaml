@@ -2,8 +2,8 @@ address: https://test-stand.gb.ru
 browser: Chrome
 sleep_time: 1
 
-login: serg_t
-pswd: cb7131accd
+login: 
+pswd: 
 
 
 title: WebDriver

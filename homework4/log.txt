@@ -1,0 +1,18 @@
+2023-10-02 16:10:27 INFO Response is <Response [200]>
+2023-10-02 16:10:29 INFO get request return: [{'id': 81100, 'title': 'WebDriver', 'description': 'Selenium WebDriver is a programming interface that can be used to create and execute test cases.', 'content': 'Think of a WebDriver as a mediator, something that allows two things to interact. Imagine there are two people who cannot speak the same language. One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.', 'authorId': 16888, 'mainImage': {'id': None, 'cdnUrl': ''}, 'updatedAt': '2023-10-02T13:10:28+00:00', 'createdAt': '2023-10-02T13:10:28+00:00', 'labels': [], 'delayPublishTo': None, 'draft': False}, {'id': 81096, 'title': 'WebDriver', 'description': 'Selenium WebDriver is a programming interface that can be used to create and execute test cases.', 'content': 'Think of a WebDriver as a mediator, something that allows two things to interact. Imagine there are two people who cannot speak the same language. One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.', 'authorId': 16888, 'mainImage': {'id': None, 'cdnUrl': ''}, 'updatedAt': '2023-10-02T12:50:57+00:00', 'createdAt': '2023-10-02T12:50:57+00:00', 'labels': [], 'delayPublishTo': None, 'draft': False}, {'id': 79893, 'title': 'Selenium WebDriver', 'description': 'Selenium WebDriver is a programming interface that can be used to create and execute test cases.', 'content': 'Think of a WebDriver as a mediator, something that allows two things to interact. Imagine there are two people who cannot speak the same language. One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.', 'authorId': 16888, 'mainImage': {'id': None, 'cdnUrl': ''}, 'updatedAt': '2023-09-27T19:11:52+00:00', 'createdAt': '2023-09-27T19:11:52+00:00', 'labels': [], 'delayPublishTo': None, 'draft': False}, {'id': 78672, 'title': 'New_title', 'description': 'New_description_for_test_HW', 'content': 'content_content_content_content_content_content_content_content_content_content_content_content_', 'authorId': 16888, 'mainImage': {'id': None, 'cdnUrl': ''}, 'updatedAt': '2023-09-23T17:40:16+00:00', 'createdAt': '2023-09-23T17:40:16+00:00', 'labels': [], 'delayPublishTo': None, 'draft': False}]
+2023-10-02 16:10:29 INFO ====== WebDriver manager ======
+2023-10-02 16:10:30 INFO Get LATEST chromedriver version for google-chrome
+2023-10-02 16:10:30 INFO Get LATEST chromedriver version for google-chrome
+2023-10-02 16:10:30 INFO There is no [win64] chromedriver "117.0.5938.132" for browser google-chrome "117.0.5938.132" in cache
+2023-10-02 16:10:30 INFO Get LATEST chromedriver version for google-chrome
+2023-10-02 16:10:30 INFO WebDriver version 117.0.5938.92 selected
+2023-10-02 16:10:30 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-10-02 16:10:30 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-10-02 16:10:30 INFO Driver downloading response is 200
+2023-10-02 16:10:31 INFO Get LATEST chromedriver version for google-chrome
+2023-10-02 16:10:31 INFO Driver has been saved in cache [C:\Users\Old_Home\.wdm\drivers\chromedriver\win64\117.0.5938.132]
+2023-10-02 16:10:34 INFO Test login_negative Starting
+2023-10-02 16:10:36 INFO Test login_positive Starting
+2023-10-02 16:10:38 INFO Test add_post Starting
+2023-10-02 16:10:40 INFO Test contact_us Starting
+2023-10-02 16:10:44 INFO Get alert message

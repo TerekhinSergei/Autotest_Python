@@ -22,4 +22,10 @@ def test_check_post_create(user_login):
     list_description = [i['description'] for i in result]
     assert data['description'] in list_description, 'check_post_create FAIL'
 
+def test_check_notme_post(user_login):
+    result = S.get(url=data['api_address'], headers={'X-Auth-Token': user_login}, params={'owner': 'notMe'}).json()['data']
+    logging.debug(f"get request return: {result}")
+    result_title = [i['title'] for i in result]
+    assert data['not_me_title'] in result_title, 'check not me post FAIL'    
+
 
